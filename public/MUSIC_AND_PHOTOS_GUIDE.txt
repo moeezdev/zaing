@@ -1,0 +1,28 @@
+HOW TO CHANGE MUSIC AND ADD PHOTOS:
+====================================
+
+1. HOW TO CHANGE THE SONG:
+-------------------------
+You have two super easy ways:
+
+Way A (Directly on the website - Instant):
+- Click the music player / sliders icon (🎵) in the top-right corner of the website.
+- Click "Choose Audio File From Device" and select any MP3, M4A, or WAV song file from your phone or computer.
+- It will instantly start playing and automatically save to your browser!
+- You can also paste any direct audio URL or adjust the volume.
+
+Way B (In the project files - Permanent):
+- Put your favorite song file named `song.mp3` right into this `/public/` folder (`/public/song.mp3`).
+- The website will automatically detect and play `/public/song.mp3` as the background music!
+
+2. HOW TO ADD PHOTOS OF HIM:
+---------------------------
+Way A (Directly on the website - Instant):
+- On Screen 3 ("I LOVE YOU MORE"): Tap "Put His Photo Here 📸" to put his picture right on the hero screen.
+- On Screen 6 (The Birthday Letter): Scroll down to "Our Memory Gallery 📸💕" and tap "Add His Photo 📸".
+- You can upload photos from your phone camera or computer.
+- You can click the pencil icon to write customized romantic captions for each picture (e.g. "My favorite smile", "My Batman 🦇💗").
+- Photos are saved so they stay there whenever you view the site!
+
+Way B (In the project files):
+- Put image files in `/public/images/` or in `/src/assets/images/`.
